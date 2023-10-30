@@ -1,4 +1,4 @@
-[Live demo](https://github.com/IlyesTal/llm-bench)
+[Live demo](https://llm-benchmark.vercel.app/)
 
 
 ## Getting Started
